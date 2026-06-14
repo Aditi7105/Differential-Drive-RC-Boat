@@ -64,13 +64,7 @@ FlySky FS-i6X Transmitter
 
 ---
 
-## 🔌 Circuit Diagram
 
-The complete circuit diagram is available below:
-
-![Circuit Diagram](circuit_diagram.png)
-
----
 
 ## 🚀 Working Principle
 
