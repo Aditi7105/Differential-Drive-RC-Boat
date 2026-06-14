@@ -136,16 +136,7 @@ The RC boat successfully demonstrated:
 
 ---
 
-## 📂 Repository Structure
 
-
-Differential-Drive-RC-Boat/
-│
-├── README.md
-├── circuit_diagram.png
-├── project_report.pdf
-├── components_list.md
-└── demo_video_link.txt
 ```
 
 ---
